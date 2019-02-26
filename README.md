@@ -9,7 +9,7 @@ If you grab the joystick with the right hand, you keep under control FlyBox with
 &nbsp;
 
 <p align="center">
-<img src="https://github.com/mancio/FlyBox/blob/master/fly.PNG" width="550" height="400" />
+<img src="https://github.com/mancio/FlyBox/blob/master/fly.PNG" width="600" height="400" />
 </p>
 
 *Prototype of the pad*
