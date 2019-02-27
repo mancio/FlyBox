@@ -17,7 +17,7 @@ If you grab the joystick with the right hand, you keep under control FlyBox with
 &nbsp;
 
 <p align="center">
-<img src="https://github.com/mancio/FlyBox/blob/master/Seat.PNG" width="600" height="400" />
+<img src="https://github.com/mancio/FlyBox/blob/master/Seat.PNG" width="600" height="500" />
 </p>
 
 *Setup example*
