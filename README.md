@@ -14,7 +14,16 @@ If you grab the joystick with the right hand, you keep under control FlyBox with
 
 *Prototype of the pad*
 
+&nbsp;
+
+<p align="center">
+<img src="https://github.com/mancio/FlyBox/blob/master/Seat.PNG" width="600" height="400" />
+</p>
+
+*Setup example*
+
 ## References
 
 Office seat - [https://www.blendswap.com/blends/view/74460](https://www.blendswap.com/blends/view/74460)
 Joystick - [http://ninevectors.ortosoft.eu/tutorials/t03](http://ninevectors.ortosoft.eu/tutorials/t03)
+Wood material - [https://www.blendswap.com/blends/view/68707](https://www.blendswap.com/blends/view/68707)
