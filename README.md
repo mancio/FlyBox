@@ -13,3 +13,7 @@ If you grab the joystick with the right hand, you keep under control FlyBox with
 </p>
 
 *Prototype of the pad*
+
+## References
+
+Office seat - [https://www.blendswap.com/blends/view/74460](https://www.blendswap.com/blends/view/74460)
