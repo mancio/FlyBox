@@ -28,4 +28,9 @@ If you grab the joystick with the right hand, you keep under control FlyBox with
 - Joystick - [http://ninevectors.ortosoft.eu/tutorials/t03](http://ninevectors.ortosoft.eu/tutorials/t03)
 - Wood material - [https://www.blendswap.com/blends/view/68707](https://www.blendswap.com/blends/view/68707)
 - matrix pad - [http://scruss.com/blog/2017/10/31/fritzing-generic-4x4-keypad-part/](http://scruss.com/blog/2017/10/31/fritzing-generic-4x4-keypad-part/)
-- shift register - [http://bildr.org/2011/02/74hc595/](http://bildr.org/2011/02/74hc595/)
+- shift register - [http://fritzing.org/projects/simple-74hc165-shift-in-register](http://fritzing.org/projects/simple-74hc165-shift-in-register)
+
+## TODO
+
+- change shift register pins (NOTE pins on internet are wrong)
+- wiring shift registers 
