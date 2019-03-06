@@ -22,6 +22,21 @@ If you grab the joystick with the right hand, you keep under control FlyBox with
 
 *Setup example*
 
+## Wiring 
+
+
+<p align="center">
+<img src="https://github.com/mancio/FlyBox/blob/master/sketch/pad_wiring.jpg" width="600" height="500" />
+</p>
+
+*Fritzing wiring draft*
+
+&nbsp;
+
+The basic idea include and Arduino pro micro (Leonardo)
+
+
+
 ## References
 
 - Office seat - [https://www.blendswap.com/blends/view/74460](https://www.blendswap.com/blends/view/74460)
@@ -32,5 +47,4 @@ If you grab the joystick with the right hand, you keep under control FlyBox with
 - [https://playground.arduino.cc/Main/MCP23S17](https://playground.arduino.cc/Main/MCP23S17)
 ## TODO
 
-- change shift register pins (NOTE pins on internet are wrong)
-- wiring shift registers 
+- check how many buttons are needed
