@@ -29,7 +29,7 @@ If you grab the joystick with the right hand, you keep under control FlyBox with
 - Wood material - [https://www.blendswap.com/blends/view/68707](https://www.blendswap.com/blends/view/68707)
 - matrix pad - [http://scruss.com/blog/2017/10/31/fritzing-generic-4x4-keypad-part/](http://scruss.com/blog/2017/10/31/fritzing-generic-4x4-keypad-part/)
 - shift register - [http://fritzing.org/projects/simple-74hc165-shift-in-register](http://fritzing.org/projects/simple-74hc165-shift-in-register)
-
+- [https://playground.arduino.cc/Main/MCP23S17](https://playground.arduino.cc/Main/MCP23S17)
 ## TODO
 
 - change shift register pins (NOTE pins on internet are wrong)
